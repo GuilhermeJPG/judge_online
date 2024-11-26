@@ -1,7 +1,7 @@
 {
-  "name": "javascript",
+  "name": "beginner",
   "version": "1.0.0",
-  "main": " ",
+  "main": "app.js",
   "scripts": {
     "start": "node"
   },
