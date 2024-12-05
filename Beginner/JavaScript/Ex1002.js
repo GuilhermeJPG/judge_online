@@ -6,4 +6,4 @@ var n = 3.14159;
 var raio = parseFloat(linhas.shift()); //Remove o primeiro elemento do array e converte em number
 console.log(raio);
 var area = n * (raio * raio);
-console.log('A= ' + area.toFixed(4));
+console.log("A= " + area.toFixed(4));
