@@ -1,7 +1,7 @@
 var input = require("fs").readFileSync("stdin", "utf-8");
 var linhas = input.split("\n");
 
-var [A, B, C] = linhas.map(Number);
+var [A, B, C] = linhas.shift().split(" ").map(Number);
 var pi = 3.14159;
 
 console.log(A, B, C);
