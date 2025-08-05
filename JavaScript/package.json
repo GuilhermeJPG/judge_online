@@ -1,0 +1,12 @@
+{
+  "name": "beginner",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
